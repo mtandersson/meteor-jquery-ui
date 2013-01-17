@@ -3,6 +3,6 @@
     "description": "jQuery UI - the jQuery user interface",
     "homepage": "https://github.com/TimHeckel/meteor-jquery-ui",
     "author": "Tim Heckel  (http://timheckel.com)",
-    "version": "1.8.16",
-    "git": "https://github.com/TimHeckel/meteor-jquery-ui.git"
+    "version": "v1.9.2",
+    "git": "git://github.com/mtandersson/meteor-jquery-ui.git"
 }
